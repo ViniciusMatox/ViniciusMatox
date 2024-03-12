@@ -1,6 +1,6 @@
 - 👋 Olá! sou o Vinicius Matos
 - 👀 Interessado em aprender sobre a tecnologia e exerce-la no mundo real
-- 🌱 Aprendendo Js, HTML e CSS
+- 🌱 Desenvolvedor de ASP.NET, C# e o trio HTML, CSS e JS 
 - 📫 Me manda um email: viniciusraupp04@gmail.com
 
 <!---
