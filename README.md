@@ -1,6 +1,6 @@
 - 👋 Olá! sou o Vinicius Matos
 - 👀 Interessado em aprender sobre a tecnologia e exerce-la no mundo real
-- 🌱 Desenvolvedor de ASP.NET, C# e o usando o trio HTML, CSS e JS 
+- 🌱 Desenvolvedor ASP.NET, C# e o usando o trio HTML, CSS e JS 
 
 
 <!---
